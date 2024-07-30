@@ -1,4 +1,4 @@
 # dibya-demo
 This is my new repository
 <br>
-Author-Dibyajyoti pattanaik
+Author-Dibyajyoti pattanaik(Apna college)
